@@ -1,5 +1,7 @@
 # [Hack Reactor](http://www.hackreactor.com): JavaScript 401 Workshop
 
+https://repl.it/join/ahiikanb-viviennezheng
+
 ## Overview
 
 #### Scheduled Length: 3 Hours
